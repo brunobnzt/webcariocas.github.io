@@ -1,11 +1,6 @@
-body {
-  background: #3A7FB4;
-}
-  
 h1{
   color: red;  
 }
-  
 header {
   min-height: 100px;
   position: fixed;
@@ -14,4 +9,7 @@ header {
   left: 0;
   border-bottom: 1px solid #ccc;
   background: #FCECAC;
+}
+header p {
+	text-align: center;
 }
