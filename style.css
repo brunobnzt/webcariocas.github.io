@@ -1,6 +1,11 @@
+body {
+  background: #3A7FB4;
+}
+  
 h1{
   color: red;  
 }
+  
 header {
   min-height: 100px;
   position: fixed;
